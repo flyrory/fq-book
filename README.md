@@ -142,6 +142,3 @@ git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
 * 中国居民请自觉关闭本书并24小时内删掉与此相关的所有内容，否则出现一切后果本书作者概不负责
 
 © 2019 [hoodiearon](https://github.com/hoodiearon)
-
-
-
